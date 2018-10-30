@@ -1,0 +1,29 @@
+{
+    "id": 0,
+    "name": "",
+    "console": "",
+    "abbreviation": "",
+    "smashggId": 0, //Need to recheck which Id actually is.
+    "commonNames": [
+
+    ],
+    "releases": {
+        "JP": "",
+        "NA": "",
+        "EU": ""
+    },
+    "media": [
+        {
+            "url": "",
+            "type": "",
+            "source": ""
+        }
+    ],
+    "websites": [
+        {
+            "url": "",
+            "name": "",
+            "description": ""
+        }
+    ]
+}
