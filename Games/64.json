@@ -1,0 +1,30 @@
+{
+    "id": 1,
+    "name": "Super Smash Bros",
+    "console": "Nintendo 64",
+    "abbreviation": "SSB",
+    "commonNames": [
+        "smash64",
+        "ssb",
+        "ssb64"
+    ],
+    "releases": {
+        "JP": "1-21-1999",
+        "NA": "4-26-1999",
+        "EU": "11-19-1999"
+    },
+    "media": [
+        {
+            "url": "https://upload.wikimedia.org/wikipedia/en/4/42/Supersmashbox.jpg",
+            "type": "boxart",
+            "source": "wikipedia"
+        }
+    ],
+    "websites": [
+        {
+            "url": "https://en.wikipedia.org/wiki/Super_Smash_Bros._(video_game)",
+            "name": "Wikipedia",
+            "description": "The Wikipedia page about Super Smash Bros."
+        }
+    ]
+}
