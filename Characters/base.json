@@ -1,0 +1,12 @@
+{
+    "id": @ID,
+    "name": @NAME,
+    "media": [],
+    "nicknames": [],
+    "smashggId": 0,
+    "description": "",
+    "notablePlayers": [],
+    "websites": [],
+    "discord": {},
+    "moves": []
+}
