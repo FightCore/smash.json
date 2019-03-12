@@ -1,0 +1,34 @@
+{
+    "id": 1,
+    "name": "Mario",
+    "images": [],
+    "nicknames": [
+        "The Red Plummer"
+    ],
+    "smashggId": 1,
+    "notablePlayers": [
+        "Dark Wizzy",
+        "MastaMario",
+        "FOW",
+        "Rice",
+        "Prodigy"
+    ],
+    "websites": [
+        {
+            "url": "https://www.ssbwiki.com/Mario_(SSBU)#Notable_players",
+            "description": "ssbwiki page for Mario"
+        }
+    ],
+    "discord": {
+        "url": "https://discord.gg/MarioUltimate"
+    },
+    "moves": [],
+    "description": "Mario is an all-around fighter who uses his wide variety of techniques to respond to any situation. In Super Smash Bros. Ultimate, he shows up in his Wedding tux and his Builder outfit, and Cappy even makes an appearance!",
+    "stockIcons": [
+        "https://i.fightcore.org/ultimate/mario/stock/1"
+    ],
+    "costumes": [
+        "https://i.fightcore.org/ultimate/mario/costume/1"
+    ],
+    "legal": "All characters and assets are owned by Nintendo. Neither FightCore or the distributer of this information owns this character nor the brand."
+}

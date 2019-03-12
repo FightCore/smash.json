@@ -1,12 +1,15 @@
 {
-    "id": @ID,
-    "name": @NAME,
-    "media": [],
+    "id": 0,
+    "name": "@NAME",
+    "images": [],
     "nicknames": [],
     "smashggId": 0,
-    "description": "",
     "notablePlayers": [],
     "websites": [],
     "discord": {},
-    "moves": []
+    "moves": [],
+    "description": "@DESCRIPTION",
+    "stockIcons": [],
+    "costumes": [],
+    "legal": ""
 }
