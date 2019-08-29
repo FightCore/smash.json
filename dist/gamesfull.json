@@ -246,22 +246,1436 @@
     {
       "name": "Super Smash Bros. Brawl",
       "abbreviation": "Brawl",
-      "BannerUrl": "https://www.dualshockers.com/wp-content/uploads/2013/09/Super-Smash-Bros.-Brawl.jpeg"
+      "BannerUrl": "https://www.dualshockers.com/wp-content/uploads/2013/09/Super-Smash-Bros.-Brawl.jpeg",
+      "stages": [
+        {
+          "Name": "Battlefield"
+        },
+        {
+          "Name": "Final Destination"
+        },
+        {
+          "Name": "Delfino Plaza"
+        },
+        {
+          "Name": "Mushroomy Kingdom"
+        },
+        {
+          "Name": "Mario Circuit"
+        },
+        {
+          "Name": "Luigi's Mansion"
+        },
+        {
+          "Name": "Mario Bros."
+        },
+        {
+          "Name": "Rumble Falls"
+        },
+        {
+          "Name": "75m"
+        },
+        {
+          "Name": "Yoshi's Island"
+        },
+        {
+          "Name": "Bridge of Eldin"
+        },
+        {
+          "Name": "Pirate Ship"
+        },
+        {
+          "Name": "Norfair"
+        },
+        {
+          "Name": "Frigate Orpheon"
+        },
+        {
+          "Name": "Halberd"
+        },
+        {
+          "Name": "Lylat Cruise"
+        },
+        {
+          "Name": "Pokémon Stadium 2"
+        },
+        {
+          "Name": "Spear Pillar"
+        },
+        {
+          "Name": "Port Town Aero Dive"
+        },
+        {
+          "Name": "New Pork City"
+        },
+        {
+          "Name": "Summit"
+        },
+        {
+          "Name": "Castle Siege"
+        },
+        {
+          "Name": "Flat Zone 2"
+        },
+        {
+          "Name": "Skyworld"
+        },
+        {
+          "Name": "WarioWare"
+        },
+        {
+          "Name": "Distant Planet"
+        },
+        {
+          "Name": "Smashville"
+        },
+        {
+          "Name": "PictoChat"
+        },
+        {
+          "Name": "Hanenbow"
+        },
+        {
+          "Name": "Shadow Moses Island"
+        },
+        {
+          "Name": "Green Hill Zone"
+        },
+        {
+          "Name": "Rainbow Cruise"
+        },
+        {
+          "Name": "Jungle Japes"
+        },
+        {
+          "Name": "Temple"
+        },
+        {
+          "Name": "Brinstar"
+        },
+        {
+          "Name": "Yoshi's Island"
+        },
+        {
+          "Name": "Green Greens"
+        },
+        {
+          "Name": "Corneria"
+        },
+        {
+          "Name": "Pokémon Stadium"
+        },
+        {
+          "Name": "Big Blue"
+        },
+        {
+          "Name": "Onett"
+        }
+      ],
+      "characters": [
+        {
+          "Names": "Mario"
+        },
+        {
+          "Names": "Link"
+        },
+        {
+          "Names": "Kirby"
+        },
+        {
+          "Names": "Pikachu"
+        },
+        {
+          "Names": "Fox"
+        },
+        {
+          "Names": "Zero Suit Samus"
+        },
+        {
+          "Names": "Samus"
+        },
+        {
+          "Names": "Zelda"
+        },
+        {
+          "Names": "Sheik"
+        },
+        {
+          "Names": "Bowser"
+        },
+        {
+          "Names": "Donkey Kong"
+        },
+        {
+          "Names": "Yoshi"
+        },
+        {
+          "Names": "Princess Peach"
+        },
+        {
+          "Names": "Ice Climbers"
+        },
+        {
+          "Names": "Pit"
+        },
+        {
+          "Names": "Wario"
+        },
+        {
+          "Names": "Ike"
+        },
+        {
+          "Names": "Pokémon Trainer"
+        },
+        {
+          "Names": "Diddy Kong"
+        },
+        {
+          "Names": "Meta Knight"
+        },
+        {
+          "Names": "Lucas"
+        },
+        {
+          "Names": "King Dedede"
+        },
+        {
+          "Names": "Olimar"
+        },
+        {
+          "Names": "Snake"
+        },
+        {
+          "Names": "Sonic the Hedgehog"
+        },
+        {
+          "Names": "Ness"
+        },
+        {
+          "Names": "Marth"
+        },
+        {
+          "Names": "Luigi"
+        },
+        {
+          "Names": "Falco"
+        },
+        {
+          "Names": "Captain Falcon"
+        },
+        {
+          "Names": "Lucario"
+        },
+        {
+          "Names": "R.O.B."
+        },
+        {
+          "Names": "Jigglypuff"
+        },
+        {
+          "Names": "Ganondorf"
+        },
+        {
+          "Names": "Toon Link"
+        },
+        {
+          "Names": "Mr. Game & Watch"
+        },
+        {
+          "Names": "Wolf"
+        }
+      ]
     },
     {
       "Abbreviation": "Smash 3DS",
       "Name": "Super Smash Bros. For 3DS",
-      "BannerUrl": "https://ksassets.timeincuk.net/wp/uploads/sites/54/2014/10/Super-Smash-Bros-3DS-1-1-3.jpg"
+      "BannerUrl": "https://ksassets.timeincuk.net/wp/uploads/sites/54/2014/10/Super-Smash-Bros-3DS-1-1-3.jpg",
+      "stages": [
+        {
+          "Name": "Battlefield"
+        },
+        {
+          "Name": "Final Destination"
+        },
+        {
+          "Name": "3D Land"
+        },
+        {
+          "Name": "Golden Plains"
+        },
+        {
+          "Name": "Rainbow Road"
+        },
+        {
+          "Name": "Paper Mario"
+        },
+        {
+          "Name": "Super Mario Maker"
+        },
+        {
+          "Name": "Peach's Castle (64)"
+        },
+        {
+          "Name": "Mushroomy Kingdom"
+        },
+        {
+          "Name": "Yoshi's Island"
+        },
+        {
+          "Name": "Jungle Japes"
+        },
+        {
+          "Name": "Gerudo Valley"
+        },
+        {
+          "Name": "Spirit Train"
+        },
+        {
+          "Name": "Hyrule Castle (64)"
+        },
+        {
+          "Name": "Brinstar"
+        },
+        {
+          "Name": "Dream Land"
+        },
+        {
+          "Name": "Dream Land (64)"
+        },
+        {
+          "Name": "Corneria"
+        },
+        {
+          "Name": "Unova Pokémon League"
+        },
+        {
+          "Name": "Prism Tower"
+        },
+        {
+          "Name": "Mute City"
+        },
+        {
+          "Name": "Magicant"
+        },
+        {
+          "Name": "Arena Ferox"
+        },
+        {
+          "Name": "Flat Zone 2"
+        },
+        {
+          "Name": "Reset Bomb Forest"
+        },
+        {
+          "Name": "WarioWare"
+        },
+        {
+          "Name": "Distant Planet"
+        },
+        {
+          "Name": "Tortimer Island"
+        },
+        {
+          "Name": "Boxing Ring"
+        },
+        {
+          "Name": "Gaur Plain"
+        },
+        {
+          "Name": "Duck Hunt"
+        },
+        {
+          "Name": "Balloon Fight"
+        },
+        {
+          "Name": "Living Room"
+        },
+        {
+          "Name": "Find Mii"
+        },
+        {
+          "Name": "Tomodachi Life"
+        },
+        {
+          "Name": "PictoChat 2"
+        },
+        {
+          "Name": "Green Hill Zone"
+        },
+        {
+          "Name": "Wily Castle"
+        },
+        {
+          "Name": "Pac-Maze"
+        },
+        {
+          "Name": "Suzaku Castle"
+        },
+        {
+          "Name": "Midgar"
+        },
+        {
+          "Name": "Umbra Clock Tower"
+        }
+      ],
+      "characters":[
+        {
+          "Name": "Mario"
+        },
+        {
+          "Name": "Luigi"
+        },
+        {
+          "Name": "Peach"
+        },
+        {
+          "Name": "Bowser"
+        },
+        {
+          "Name": "Yoshi"
+        },
+        {
+          "Name": "Rosalina & Luma"
+        },
+        {
+          "Name": "Donkey Kong"
+        },
+        {
+          "Name": "Diddy Kong"
+        },
+        {
+          "Name": "Link"
+        },
+        {
+          "Name": "Zelda"
+        },
+        {
+          "Name": "Sheik"
+        },
+        {
+          "Name": "Toon Link"
+        },
+        {
+          "Name": "Samus"
+        },
+        {
+          "Name": "Zero Suit Samus"
+        },
+        {
+          "Name": "Pit"
+        },
+        {
+          "Name": "Palutena"
+        },
+        {
+          "Name": "Marth"
+        },
+        {
+          "Name": "Ike"
+        },
+        {
+          "Name": "Robin"
+        },
+        {
+          "Name": "Kirby"
+        },
+        {
+          "Name": "King Dedede"
+        },
+        {
+          "Name": "Meta Knight"
+        },
+        {
+          "Name": "Little Mac"
+        },
+        {
+          "Name": "Fox"
+        },
+        {
+          "Name": "Pikachu"
+        },
+        {
+          "Name": "Charizard"
+        },
+        {
+          "Name": "Lucario"
+        },
+        {
+          "Name": "Greninja"
+        },
+        {
+          "Name": "Captain Falcon"
+        },
+        {
+          "Name": "Villager"
+        },
+        {
+          "Name": "Olimar"
+        },
+        {
+          "Name": "Wii Fit Trainer"
+        },
+        {
+          "Name": "Shulk"
+        },
+        {
+          "Name": "Pac-Man"
+        },
+        {
+          "Name": "Mega Man"
+        },
+        {
+          "Name": "Sonic"
+        },
+        {
+          "Name": "Mii Fighters"
+        },
+        {
+          "Name": "Ness"
+        },
+        {
+          "Name": "Falco"
+        },
+        {
+          "Name": "Wario"
+        },
+        {
+          "Name": "Lucina"
+        },
+        {
+          "Name": "Dark Pit"
+        },
+        {
+          "Name": "Dr. Mario"
+        },
+        {
+          "Name": "R.O.B."
+        },
+        {
+          "Name": "Ganondorf"
+        },
+        {
+          "Name": "Mr. Game & Watch"
+        },
+        {
+          "Name": "Bowser Jr."
+        },
+        {
+          "Name": "Duck Hunt"
+        },
+        {
+          "Name": "Jigglypuff"
+        },
+        {
+          "Name": "Mewtwo"
+        },
+        {
+          "Name": "Lucas"
+        },
+        {
+          "Name": "Roy"
+        },
+        {
+          "Name": "Ryu"
+        },
+        {
+          "Name": "Cloud"
+        },
+        {
+          "Name": "Corrin"
+        },
+        {
+          "Name": "Bayonetta"
+        }
+      ]
     },
     {
       "Abbreviation": "Smash Wii U",
       "Name": "Super Smash Bros. For Wii U",
-      "BannerUrl": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_SuperSmashBrosForWiiU_image1600w.jpg"
+      "BannerUrl": "https://cdn02.nintendo-europe.com/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_SuperSmashBrosForWiiU_image1600w.jpg",
+      "stages": [
+        {
+          "Name": "Battlefield"
+        },
+        {
+          "Name": "Big Battlefield"
+        },
+        {
+          "Name": "Final Destination"
+        },
+        {
+          "Name": "Mario Galaxy"
+        },
+        {
+          "Name": "Mushroom Kingdom U"
+        },
+        {
+          "Name": "Mario Circuit"
+        },
+        {
+          "Name": "Super Mario Maker"
+        },
+        {
+          "Name": "Peach's Castle (64)"
+        },
+        {
+          "Name": "Delfino Plaza"
+        },
+        {
+          "Name": "Luigi's Mansion"
+        },
+        {
+          "Name": "Mario Circuit (Brawl)"
+        },
+        {
+          "Name": "Jungle Hijinxs"
+        },
+        {
+          "Name": "Kongo Jungle 64"
+        },
+        {
+          "Name": "75m"
+        },
+        {
+          "Name": "Woolly World"
+        },
+        {
+          "Name": "Yoshi's Island"
+        },
+        {
+          "Name": "Skyloft"
+        },
+        {
+          "Name": "Hyrule Castle (64)"
+        },
+        {
+          "Name": "Temple"
+        },
+        {
+          "Name": "Bridge of Eldin"
+        },
+        {
+          "Name": "Pirate Ship"
+        },
+        {
+          "Name": "Pyrosphere"
+        },
+        {
+          "Name": "Norfair"
+        },
+        {
+          "Name": "The Great Cave Offensive"
+        },
+        {
+          "Name": "Dream Land (64)"
+        },
+        {
+          "Name": "Halberd"
+        },
+        {
+          "Name": "Orbital Gate Assault"
+        },
+        {
+          "Name": "Lylat Cruise"
+        },
+        {
+          "Name": "Kalos Pokémon League"
+        },
+        {
+          "Name": "Pokémon Stadium 2"
+        },
+        {
+          "Name": "Port Town Aero Dive"
+        },
+        {
+          "Name": "Onett"
+        },
+        {
+          "Name": "Coliseum"
+        },
+        {
+          "Name": "Castle Siege"
+        },
+        {
+          "Name": "Flat Zone X"
+        },
+        {
+          "Name": "Palutena's Temple"
+        },
+        {
+          "Name": "Skyworld"
+        },
+        {
+          "Name": "Gamer"
+        },
+        {
+          "Name": "Garden of Hope"
+        },
+        {
+          "Name": "Town and City"
+        },
+        {
+          "Name": "Smashville"
+        },
+        {
+          "Name": "Boxing Ring"
+        },
+        {
+          "Name": "Wii Fit Studio"
+        },
+        {
+          "Name": "Gaur Plain"
+        },
+        {
+          "Name": "Duck Hunt"
+        },
+        {
+          "Name": "Wrecking Crew"
+        },
+        {
+          "Name": "Pilotwings"
+        },
+        {
+          "Name": "Wuhu Island"
+        },
+        {
+          "Name": "Miiverse"
+        },
+        {
+          "Name": "Windy Hill Zone"
+        },
+        {
+          "Name": "Wily Castle"
+        },
+        {
+          "Name": "Pac-Land"
+        },
+        {
+          "Name": "Suzaku Castle"
+        },
+        {
+          "Name": "Midgar"
+        },
+        {
+          "Name": "Umbra Clock Tower"
+        }
+      ],
+      "characters": [
+        {
+          "Name": "Mario"
+        },
+        {
+          "Name": "Luigi"
+        },
+        {
+          "Name": "Peach"
+        },
+        {
+          "Name": "Bowser"
+        },
+        {
+          "Name": "Yoshi"
+        },
+        {
+          "Name": "Rosalina & Luma"
+        },
+        {
+          "Name": "Donkey Kong"
+        },
+        {
+          "Name": "Diddy Kong"
+        },
+        {
+          "Name": "Link"
+        },
+        {
+          "Name": "Zelda"
+        },
+        {
+          "Name": "Sheik"
+        },
+        {
+          "Name": "Toon Link"
+        },
+        {
+          "Name": "Samus"
+        },
+        {
+          "Name": "Zero Suit Samus"
+        },
+        {
+          "Name": "Pit"
+        },
+        {
+          "Name": "Palutena"
+        },
+        {
+          "Name": "Marth"
+        },
+        {
+          "Name": "Ike"
+        },
+        {
+          "Name": "Robin"
+        },
+        {
+          "Name": "Kirby"
+        },
+        {
+          "Name": "King Dedede"
+        },
+        {
+          "Name": "Meta Knight"
+        },
+        {
+          "Name": "Little Mac"
+        },
+        {
+          "Name": "Fox"
+        },
+        {
+          "Name": "Pikachu"
+        },
+        {
+          "Name": "Charizard"
+        },
+        {
+          "Name": "Lucario"
+        },
+        {
+          "Name": "Greninja"
+        },
+        {
+          "Name": "Captain Falcon"
+        },
+        {
+          "Name": "Villager"
+        },
+        {
+          "Name": "Olimar"
+        },
+        {
+          "Name": "Wii Fit Trainer"
+        },
+        {
+          "Name": "Shulk"
+        },
+        {
+          "Name": "Pac-Man"
+        },
+        {
+          "Name": "Mega Man"
+        },
+        {
+          "Name": "Sonic"
+        },
+        {
+          "Name": "Mii Fighters"
+        },
+        {
+          "Name": "Ness"
+        },
+        {
+          "Name": "Falco"
+        },
+        {
+          "Name": "Wario"
+        },
+        {
+          "Name": "Lucina"
+        },
+        {
+          "Name": "Dark Pit"
+        },
+        {
+          "Name": "Dr. Mario"
+        },
+        {
+          "Name": "R.O.B."
+        },
+        {
+          "Name": "Ganondorf"
+        },
+        {
+          "Name": "Mr. Game & Watch"
+        },
+        {
+          "Name": "Bowser Jr."
+        },
+        {
+          "Name": "Duck Hunt"
+        },
+        {
+          "Name": "Jigglypuff"
+        },
+        {
+          "Name": "Mewtwo"
+        },
+        {
+          "Name": "Lucas"
+        },
+        {
+          "Name": "Roy"
+        },
+        {
+          "Name": "Ryu"
+        },
+        {
+          "Name": "Cloud"
+        },
+        {
+          "Name": "Corrin"
+        },
+        {
+          "Name": "Bayonetta"
+        }
+      ]
     },
     {
       "Abbreviation": "Ultimate",
       "Name": "Super Smash Bros. Ultimate",
-      "BannerUrl": "http://images.nintendolife.com/cfc6408cf3e7f/super-smash-bros-bultimate.original.jpg"
+      "BannerUrl": "http://images.nintendolife.com/cfc6408cf3e7f/super-smash-bros-bultimate.original.jpg",
+      "stages": [
+        {
+          "Name": "Battlefield"
+        },
+        {
+          "Name": "Big Battlefield"
+        },
+        {
+          "Name": "Final Destination"
+        },
+        {
+          "Name": "New Donk City Hall"
+        },
+        {
+          "Name": "Great Plateau Tower"
+        },
+        {
+          "Name": "Moray Towers"
+        },
+        {
+          "Name": "Dracula's Castle"
+        },
+        {
+          "Name": "Mementos"
+        },
+        {
+          "Name": "Yggdrasil's Altar"
+        },
+        {
+          "Name": "Spiral Mountain"
+        },
+        {
+          "Name": "Peach's Castle"
+        },
+        {
+          "Name": "Mushroom Kingdom"
+        },
+        {
+          "Name": "Princess Peach's Castle"
+        },
+        {
+          "Name": "Rainbow Cruise"
+        },
+        {
+          "Name": "Mushroom Kingdom II"
+        },
+        {
+          "Name": "Delfino Plaza"
+        },
+        {
+          "Name": "Luigi's Mansion"
+        },
+        {
+          "Name": "Mushroomy Kingdom"
+        },
+        {
+          "Name": "Figure-8 Circuit"
+        },
+        {
+          "Name": "Mario Bros."
+        },
+        {
+          "Name": "3D Land"
+        },
+        {
+          "Name": "Golden Plains"
+        },
+        {
+          "Name": "Paper Mario"
+        },
+        {
+          "Name": "Mushroom Kingdom U"
+        },
+        {
+          "Name": "Mario Galaxy"
+        },
+        {
+          "Name": "Mario Circuit"
+        },
+        {
+          "Name": "Super Mario Maker"
+        },
+        {
+          "Name": "Kongo Jungle"
+        },
+        {
+          "Name": "Kongo Falls"
+        },
+        {
+          "Name": "Jungle Japes"
+        },
+        {
+          "Name": "75m"
+        },
+        {
+          "Name": "Super Happy Tree"
+        },
+        {
+          "Name": "Yoshi's Island (Melee)"
+        },
+        {
+          "Name": "Yoshi's Story"
+        },
+        {
+          "Name": "Yoshi’s Island"
+        },
+        {
+          "Name": "Hyrule Castle"
+        },
+        {
+          "Name": "Great Bay"
+        },
+        {
+          "Name": "Temple"
+        },
+        {
+          "Name": "Bridge of Eldin"
+        },
+        {
+          "Name": "Pirate Ship"
+        },
+        {
+          "Name": "Gerudo Valley"
+        },
+        {
+          "Name": "Spirit Train"
+        },
+        {
+          "Name": "Skyloft"
+        },
+        {
+          "Name": "Brinstar"
+        },
+        {
+          "Name": "Brinstar Depths"
+        },
+        {
+          "Name": "Norfair"
+        },
+        {
+          "Name": "Frigate Orpheon"
+        },
+        {
+          "Name": "Dream Land"
+        },
+        {
+          "Name": "Fountain of Dreams"
+        },
+        {
+          "Name": "Green Greens"
+        },
+        {
+          "Name": "Halberd"
+        },
+        {
+          "Name": "Dream Land GB"
+        },
+        {
+          "Name": "The Great Cave Offensive"
+        },
+        {
+          "Name": "Corneria"
+        },
+        {
+          "Name": "Venom"
+        },
+        {
+          "Name": "Lylat Cruise"
+        },
+        {
+          "Name": "Saffron City"
+        },
+        {
+          "Name": "Pokémon Stadium"
+        },
+        {
+          "Name": "Pokémon Stadium 2"
+        },
+        {
+          "Name": "Spear Pillar"
+        },
+        {
+          "Name": "Unova Pokémon League"
+        },
+        {
+          "Name": "Prism Tower"
+        },
+        {
+          "Name": "Kalos Pokémon League"
+        },
+        {
+          "Name": "Big Blue"
+        },
+        {
+          "Name": "Port Town Aero Dive"
+        },
+        {
+          "Name": "Mute City SNES"
+        },
+        {
+          "Name": "Onett"
+        },
+        {
+          "Name": "Fourside"
+        },
+        {
+          "Name": "New Pork City"
+        },
+        {
+          "Name": "Magicant"
+        },
+        {
+          "Name": "Summit"
+        },
+        {
+          "Name": "Castle Siege"
+        },
+        {
+          "Name": "Arena Ferox"
+        },
+        {
+          "Name": "Coliseum"
+        },
+        {
+          "Name": "Flat Zone X"
+        },
+        {
+          "Name": "Skyworld"
+        },
+        {
+          "Name": "Reset Bomb Forest"
+        },
+        {
+          "Name": "Palutena's Temple"
+        },
+        {
+          "Name": "WarioWare"
+        },
+        {
+          "Name": "Gamer"
+        },
+        {
+          "Name": "Distant Planet"
+        },
+        {
+          "Name": "Garden of Hope"
+        },
+        {
+          "Name": "Smashville"
+        },
+        {
+          "Name": "Tortimer Island"
+        },
+        {
+          "Name": "Town and City"
+        },
+        {
+          "Name": "Boxing Ring"
+        },
+        {
+          "Name": "Wii Fit Studio"
+        },
+        {
+          "Name": "Gaur Plain"
+        },
+        {
+          "Name": "Duck Hunt"
+        },
+        {
+          "Name": "Shadow Moses Island"
+        },
+        {
+          "Name": "Green Hill Zone"
+        },
+        {
+          "Name": "Windy Hill Zone"
+        },
+        {
+          "Name": "Wily Castle"
+        },
+        {
+          "Name": "Pac-Land"
+        },
+        {
+          "Name": "Suzaku Castle"
+        },
+        {
+          "Name": "Midgar"
+        },
+        {
+          "Name": "Umbra Clock Tower"
+        },
+        {
+          "Name": "Hanenbow"
+        },
+        {
+          "Name": "PictoChat 2"
+        },
+        {
+          "Name": "Balloon Fight"
+        },
+        {
+          "Name": "Living Room"
+        },
+        {
+          "Name": "Find Mii"
+        },
+        {
+          "Name": "Tomodachi Life"
+        },
+        {
+          "Name": "Wrecking Crew"
+        },
+        {
+          "Name": "Pilotwings"
+        },
+        {
+          "Name": "Wuhu Island"
+        }
+      ],
+      "characters": [
+        {
+          "Name": "Mario"
+        },
+        {
+          "Name": "Luigi"
+        },
+        {
+          "Name": "Peach"
+        },
+        {
+          "Name": "Bowser"
+        },
+        {
+          "Name": "Yoshi"
+        },
+        {
+          "Name": "Rosalina & Luma"
+        },
+        {
+          "Name": "Donkey Kong"
+        },
+        {
+          "Name": "Diddy Kong"
+        },
+        {
+          "Name": "Link"
+        },
+        {
+          "Name": "Zelda"
+        },
+        {
+          "Name": "Sheik"
+        },
+        {
+          "Name": "Toon Link"
+        },
+        {
+          "Name": "Samus"
+        },
+        {
+          "Name": "Zero Suit Samus"
+        },
+        {
+          "Name": "Pit"
+        },
+        {
+          "Name": "Palutena"
+        },
+        {
+          "Name": "Marth"
+        },
+        {
+          "Name": "Ike"
+        },
+        {
+          "Name": "Robin"
+        },
+        {
+          "Name": "Kirby"
+        },
+        {
+          "Name": "King Dedede"
+        },
+        {
+          "Name": "Meta Knight"
+        },
+        {
+          "Name": "Little Mac"
+        },
+        {
+          "Name": "Fox"
+        },
+        {
+          "Name": "Pikachu"
+        },
+        {
+          "Name": "Pokemon Trainer"
+        },
+        {
+          "Name": "Lucario"
+        },
+        {
+          "Name": "Greninja"
+        },
+        {
+          "Name": "Captain Falcon"
+        },
+        {
+          "Name": "Villager"
+        },
+        {
+          "Name": "Olimar"
+        },
+        {
+          "Name": "Wii Fit Trainer"
+        },
+        {
+          "Name": "Shulk"
+        },
+        {
+          "Name": "Pac-Man"
+        },
+        {
+          "Name": "Mega Man"
+        },
+        {
+          "Name": "Sonic"
+        },
+        {
+          "Name": "Mii Fighters"
+        },
+        {
+          "Name": "Ness"
+        },
+        {
+          "Name": "Falco"
+        },
+        {
+          "Name": "Wario"
+        },
+        {
+          "Name": "Lucina"
+        },
+        {
+          "Name": "Dark Pit"
+        },
+        {
+          "Name": "Dr. Mario"
+        },
+        {
+          "Name": "R.O.B."
+        },
+        {
+          "Name": "Ganondorf"
+        },
+        {
+          "Name": "Mr. Game & Watch"
+        },
+        {
+          "Name": "Bowser Jr."
+        },
+        {
+          "Name": "Duck Hunt"
+        },
+        {
+          "Name": "Jigglypuff"
+        },
+        {
+          "Name": "Mewtwo"
+        },
+        {
+          "Name": "Lucas"
+        },
+        {
+          "Name": "Roy"
+        },
+        {
+          "Name": "Ryu"
+        },
+        {
+          "Name": "Cloud"
+        },
+        {
+          "Name": "Corrin"
+        },
+        {
+          "Name": "Bayonetta"
+        },
+        {
+          "Name": "Snake"
+        },
+        {
+          "Name": "Ice Climbers"
+        },
+        {
+          "Name": "Inkling"
+        },
+        {
+          "Name": "Daisy"
+        },
+        {
+          "Name": "King K. Rool"
+        },
+        {
+          "Name": "Dark Samus"
+        },
+        {
+          "Name": "Young Link"
+        },
+        {
+          "Name": "Simon"
+        },
+        {
+          "Name": "Richter"
+        },
+        {
+          "Name": "Joker"
+        },
+        {
+          "Name": "Pikachu"
+        },
+        {
+          "Name": "Wolf"
+        },
+        {
+          "Name": "Isabelle"
+        },
+        {
+          "Name": "Incineroar"
+        },
+        {
+          "Name": "Piranha plant"
+        },
+        {
+          "Name": "Ken"
+        },
+        {
+          "Name": "Hero"
+        }
+      ]
     }
   ]
 }
