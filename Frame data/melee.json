@@ -243,7 +243,7 @@
         "LandLag": "",
         "LCanceled": "",
         "Extra": {
-          "Reflects": "40-21 or release+1",
+          "Reflects": "4-21 or release+1",
           "Jump cancelable": "whenever it reflects",
           "Lag upon release": "19",
           "Reflection lag": "19"
@@ -348,6 +348,1159 @@
         "LCanceled": "",
         "Extra": {
           "Invulnerable": "4-19"
+        }
+      }
+    ]
+  },
+  {
+    "Name": "Falco",
+    "FightCoreId": "218",
+    "Source": "https://smashboards.com/threads/falco-hitboxes-and-frame-data.300397/#post-12428113",
+    "Moves": [
+      {
+        "Name": "Jab",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/jab.gif",
+        "HitFrames": "2-3",
+        "TotalFrames": "17",
+        "IASA": "16",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Window for jab 2": "3-31",
+          "Next jab starts": "6 (or later)"
+        }
+      },
+      {
+        "Name": "Jab 2",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/jab2.gif",
+        "HitFrames": "3-4",
+        "TotalFrames": "20",
+        "IASA": "19",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Window for jab 3": "1-20",
+          "Jab 3 starts": "7"
+        }
+      },
+      {
+        "Name": "Rapid kick",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/rapidjab.gif",
+        "HitFrames": "3-4, 10-11, 17-18, 24-25, 31-32 (6 frames between each kick)",
+        "TotalFrames": "36",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "Dash attack",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/dashattack.gif",
+        "HitFrames": "4-7",
+        "TotalFrames": "39",
+        "IASA": "36",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "F-tilt",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/f-tilt.gif",
+        "HitFrames": "5-9",
+        "TotalFrames": "26",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "F-tilt up",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/f-tiltup.gif",
+        "HitFrames": "5-9",
+        "TotalFrames": "26",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "F-tilt down",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/f-tiltdown.gif",
+        "HitFrames": "5-9",
+        "TotalFrames": "26",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "U-tilt",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/u-tilt.gif",
+        "HitFrames": "5-11",
+        "TotalFrames": "23",
+        "IASA": "23",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Shield hit lag": "5",
+          "Shield stun": "11"
+        }
+      }
+      {
+        "Name": "D-tilt",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/d-tilt.gif",
+        "HitFrames": "7-9",
+        "TotalFrames": "29",
+        "IASA": "28",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "N-air",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/n-air.gif",
+        "HitFrames": "4-31",
+        "TotalFrames": "49",
+        "IASA": "42",
+        "AutoCancel": "<3 37>",
+        "LandLag": "15",
+        "LCanceled": "7",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "F-air",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/f-air.gif",
+        "HitFrames": "6-8, 16-18, 24-26, 33-25, 43-45",
+        "TotalFrames": "59",
+        "IASA": "53",
+        "AutoCancel": "<5 49>",
+        "LandLag": "22",
+        "LCanceled": "11",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "B-air",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/b-air.gif",
+        "HitFrames": "4-19",
+        "TotalFrames": "39",
+        "IASA": "38",
+        "AutoCancel": "<3 23>",
+        "LandLag": "20",
+        "LCanceled": "10",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "U-air",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/u-air.gif",
+        "HitFrames": "8-9 11-14",
+        "TotalFrames": "39",
+        "IASA": "36",
+        "AutoCancel": "<7 26>",
+        "LandLag": "18",
+        "LCanceled": "9",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "D-air",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/d-air.gif",
+        "HitFrames": "5-24",
+        "TotalFrames": "49",
+        "IASA": "",
+        "AutoCancel": "<4 30>",
+        "LandLag": "18",
+        "LCanceled": "9",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "F-smash",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/f-smash.gif",
+        "HitFrames": "12-21",
+        "TotalFrames": "39",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Charge frame": "7"
+        }
+      },
+      {
+        "Name": "U-smash",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/u-smash.gif",
+        "HitFrames": "7-15",
+        "TotalFrames": "43",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Head intangible (but not beak)": "1-10",
+          "Charge frame": "2"
+        }
+      },
+      {
+        "Name": "D-smash",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/d-smash.gif",
+        "HitFrames": "6-10",
+        "TotalFrames": "49",
+        "IASA": "46",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Legs intangible": "1-6",
+          "Charge frame": "2"
+        }
+      },
+      {
+        "Name": "Blaster",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/blaster.gif",
+        "HitFrames": "",
+        "TotalFrames": "57 (single shot)",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Shot comes out": "23",
+          "Repeated shots": "every 24 frames",
+          "Laser lasts": "99 frames"
+        }
+      },
+      {
+        "Name": "Blaster airborne",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/blasterair.gif",
+        "HitFrames": "",
+        "TotalFrames": "42",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Shot comes out": "13",
+          "Repeated shots": "Every 16 frames",
+          "Auto cancels": "upon landing",
+          "Laser lasts": "99 frames"
+        }
+      },
+      {
+        "Name": "Phantasm",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/phantasm.gif",
+        "HitFrames": "18-21",
+        "TotalFrames": "59",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Falco starts moving away": "17",
+          "Can grab edge as early as": "25",
+          "Shortest": "16-17",
+          "Middle": "18",
+          "Longest": "19"
+        }
+      },
+      {
+        "Name": "Phantasm airborne",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/phantasmair.gif",
+        "HitFrames": "18-21",
+        "TotalFrames": "59",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "20",
+        "LCanceled": "",
+        "Extra": {
+          "Falco starts moving away": "17",
+          "Can grab edge as early as": "25",
+          "Shortest": "16-17",
+          "Middle": "18",
+          "Longest": "19",
+          "Land fall special lag": "3"
+        }
+      },
+      {
+        "Name": "Firebird",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/firebird.gif",
+        "HitFrames": "43-64",
+        "TotalFrames": "84",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "6",
+        "LCanceled": "",
+        "Extra": {
+          "Can grab edge as early as": "16",
+          "Can grab edge during moving part as early as": "65",
+          "Land fall special lag": "3"
+        }
+      },
+      {
+        "Name": "Reflector (shine)",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/shine.gif",
+        "HitFrames": "1",
+        "TotalFrames": "39 (or more)",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Reflects": "4-21 or release+1",
+          "Lag upon release": "19",
+          "Can be jump cancelled": "reflect frames",
+          "Damage": "8%",
+          "Hit lag": "5",
+          "Shield stun": "5"
+        }
+      },
+      {
+        "Name": "Grab",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/grab.gif",
+        "HitFrames": "7-8",
+        "TotalFrames": "30",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "Dash grab",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/dashgrab.gif",
+        "HitFrames": "12-13",
+        "TotalFrames": "40",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "Roll forward",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/rollforward.gif",
+        "HitFrames": "",
+        "TotalFrames": "31",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Invulnerable": "4-19"
+        }
+      },
+      {
+        "Name": "Roll backwards",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/rollbackwards.gif",
+        "HitFrames": "",
+        "TotalFrames": "31",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Invulnerable": "4-19"
+        }
+      },
+      {
+        "Name": "Spot dodge",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/spotdodge.gif",
+        "HitFrames": "",
+        "TotalFrames": "31",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Invulnerable": "2-15"
+        }
+      },
+      {
+        "Name": "Air dodge",
+        "GifURL": "https://i.fightcore.gg/melee/moves/falco/airdodge.gif",
+        "HitFrames": "",
+        "TotalFrames": "49",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Invulnerable": "4-29"
+        }
+      }
+    ]
+  },
+  {
+    "Name": "Jigglypuff",
+    "FightCoreId": 214,
+    "Source": "https://smashboards.com/threads/jigglypuff-hitbox-and-frame-data-nsf56k.303202/",
+    "Moves": [
+      {
+        "Name": "Jab",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/jab.gif",
+        "HitFrames": "5-6",
+        "TotalFrames": "17",
+        "IASA": "16",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Window of second punch": "3-25",
+          "Second punch start": "8"
+        }
+      },
+      {
+        "Name": "Jab 2",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/jab2.gif",
+        "HitFrames": "6-7",
+        "TotalFrames": "20",
+        "IASA": "17",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "F-tilt",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/f-tilt.gif",
+        "HitFrames": "6-9",
+        "TotalFrames": "27",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "F-tilt up",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/f-tiltup.gif",
+        "HitFrames": "6-9",
+        "TotalFrames": "27",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "F-tilt down",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/f-tiltdown.gif",
+        "HitFrames": "6-9",
+        "TotalFrames": "27",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "D-tilt",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/d-tilt.gif",
+        "HitFrames": "1-12",
+        "TotalFrames": "39",
+        "IASA": "30",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "U-tilt",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/u-tilt.gif",
+        "HitFrames": "8-14",
+        "TotalFrames": "23",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "Dash attack",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/dashattack.gif",
+        "HitFrames": "4-14",
+        "TotalFrames": "39",
+        "IASA": "39",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "F-Smash",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/f-smash.gif",
+        "HitFrames": "12-20",
+        "TotalFrames": "44",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Charge frame": "4"
+        }
+      },
+      {
+        "Name": "U-Smash",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/u-smash.gif",
+        "HitFrames": "7-10",
+        "TotalFrames": "54",
+        "IASA": "45",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Charge frame": "5",
+          "Earliest hit OoS": "8"
+        }
+      },
+      {
+        "Name": "D-Smash",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/d-smash.gif",
+        "HitFrames": "9-10",
+        "TotalFrames": "54",
+        "IASA": "48",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Charge frame": "5",
+          "Legs invincible": "9-10"
+        }
+      },
+      {
+        "Name": "N-air",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/n-air.gif",
+        "HitFrames": "6-28",
+        "TotalFrames": "49",
+        "IASA": "",
+        "AutoCancel": "<5, >29",
+        "LandLag": "20",
+        "LCanceled": "10",
+        "Extra": {
+          "Earliest hit OoS": "11"
+        }
+      },
+      {
+        "Name": "U-air",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/u-air.gif",
+        "HitFrames": "9-12",
+        "TotalFrames": "39",
+        "IASA": "38",
+        "AutoCancel": "<8, >37",
+        "LandLag": "20",
+        "LCanceled": "10",
+        "Extra": {
+          "Earliest hit OoS": "14"
+        }
+      },
+      {
+        "Name": "B-air",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/b-air.gif",
+        "HitFrames": "9-12",
+        "TotalFrames": "39",
+        "IASA": "31",
+        "AutoCancel": "<8, >25",
+        "LandLag": "20",
+        "LCanceled": "10",
+        "Extra": {
+          "Earliest hit OoS": "14"
+        }
+      },
+      {
+        "Name": "D-air",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/d-air.gif",
+        "HitFrames": "5-6, 8-9, 11-12, 14-15, 17-18, 20-21, 23-24, 26-27",
+        "TotalFrames": "49",
+        "IASA": "",
+        "AutoCancel": "<4, >39",
+        "LandLag": "30",
+        "LCanceled": "15",
+        "Extra": {
+          "Earliest hit OoS": 10
+        }
+      },
+      {
+        "Name": "F-air",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/f-air.gif",
+        "HitFrames": "7-22",
+        "TotalFrames": "39",
+        "IASA": "35",
+        "AutoCancel": "<6, >34",
+        "LandLag": "20",
+        "LCanceled": "10",
+        "Extra": {
+          "Earliest hit OoS": 12
+        }
+      },
+      {
+        "Name": "Air dodge",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/airdodge.gif",
+        "HitFrames": "",
+        "TotalFrames": "29",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Invulnerable": "4-29"
+        }
+      },
+      {
+        "Name": "Spotdodge",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/spotdodge.gif",
+        "HitFrames": "",
+        "TotalFrames": "34",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Invulnerable": "2-15"
+        }
+      },
+      {
+        "Name": "Roll forward",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/rollforward.gif",
+        "HitFrames": "",
+        "TotalFrames": "34",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Invulnerable": "2-18"
+        }
+      },
+      {
+        "Name": "Roll backwards",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/rollbackwards.gif",
+        "HitFrames": "",
+        "TotalFrames": "34",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Invulnerable": "4-19"
+        }
+      },
+      {
+        "Name": "Grab",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/.gif",
+        "HitFrames": "",
+        "TotalFrames": "30",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Grab": "7-8",
+          "Earliest hit OoS": "7"
+        }
+      },
+      {
+        "Name": "Dash grab",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/dashgrab.gif",
+        "HitFrames": "",
+        "TotalFrames": "40",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Grab": "11-12"
+        }
+      },
+      {
+        "Name": "Rollout",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/rollout.gif",
+        "HitFrames": "",
+        "TotalFrames": "",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Charging starts": "16",
+          "Hit animations": "1-106 (whenever you hit the ground)",
+          "Maximum charge": "45 frames"
+        }
+      },
+      {
+        "Name": "Rest",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/rest.gif",
+        "HitFrames": "1",
+        "TotalFrames": "249",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Invincible": "1-26",
+          "Earliest hit OoS": "6"
+        }
+      },
+      {
+        "Name": "Pound",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/pound.gif",
+        "HitFrames": "12-27",
+        "TotalFrames": "45",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "When to aim": "12",
+          "Earliest FF": "42"
+        }
+      },
+      {
+        "Name": "Sing",
+        "GifURL": "https://i.fightcore.gg/melee/moves/jigglypuff/sing.gif",
+        "HitFrames": "28-35, 69-76, 113-125",
+        "TotalFrames": "179",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      }
+    ]
+  },
+  {
+    "Name": "Marth",
+    "FightCoreId": 222,
+    "Source": "https://smashboards.com/threads/complete-marth-hitboxes-and-frame-data.285324/#post-11073667",
+    "Moves": [
+      {
+        "Name": "Jab",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/.gif",
+        "HitFrames": "4-7",
+        "TotalFrames": "27",
+        "IASA": "26",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Windows of second slash": "3-27",
+          "Second slash starts": "20"
+        }
+      },
+      {
+        "Name": "Jab 2",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/jab2.gif",
+        "HitFrames": "5-9",
+        "TotalFrames": "28",
+        "IASA": "27",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "F-Tilt",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/f-tilt.gif",
+        "HitFrames": "7-10",
+        "TotalFrames": "35",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "D-Tilt",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/d-tilt.gif",
+        "HitFrames": "7-9",
+        "TotalFrames": "49",
+        "IASA": "20",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "U-tilt",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/u-tilt.gif",
+        "HitFrames": "",
+        "TotalFrames": "",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "Dash Attack",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/dashattack.gif",
+        "HitFrames": "12-15",
+        "TotalFrames": "49",
+        "IASA": "40",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "F-Smash",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/f-smash.gif",
+        "HitFrames": "10-13",
+        "TotalFrames": "49",
+        "IASA": "48",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Charge frame": "3"
+        }
+      },
+      {
+        "Name": "U-Smash",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/u-smash.gif",
+        "HitFrames": "13-16",
+        "TotalFrames": "54",
+        "IASA": "46",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Charge frame": "7"
+        }
+      },
+      {
+        "Name": "D-Smash",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/d-smash.gif",
+        "HitFrames": "5-7, 20-22",
+        "TotalFrames": "64",
+        "IASA": "62",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Charge frame": "3"
+        }
+      },
+      {
+        "Name": "N-air",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/n-air.gif",
+        "HitFrames": "6-7, 15-21",
+        "TotalFrames": "49",
+        "IASA": "",
+        "AutoCancel": "<5 25>",
+        "LandLag": "15",
+        "LCanceled": "7",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "U-air",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/u-air.gif",
+        "HitFrames": "5-8",
+        "TotalFrames": "45",
+        "IASA": "",
+        "AutoCancel": "<4 27>",
+        "LandLag": "15",
+        "LCanceled": "7",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "B-air",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/b-air.gif",
+        "HitFrames": "7-11",
+        "TotalFrames": "39",
+        "IASA": "35",
+        "AutoCancel": "32>",
+        "LandLag": "24",
+        "LCanceled": "12",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "D-air",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/d-air.gif",
+        "HitFrames": "6-9",
+        "TotalFrames": "59",
+        "IASA": "",
+        "AutoCancel": "<5 48>",
+        "LandLag": "32",
+        "LCanceled": "16",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "F-air",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/f-air.gif",
+        "HitFrames": "4-7",
+        "TotalFrames": "33",
+        "IASA": "30",
+        "AutoCancel": "27 >",
+        "LandLag": "15",
+        "LCanceled": "7",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "Grab",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/grab.gif",
+        "HitFrames": "7-8",
+        "TotalFrames": "30",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "Dash Grab",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/dashgrab.gif",
+        "HitFrames": "",
+        "TotalFrames": "40",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Grab": "10-11"
+        }
+      },
+      {
+        "Name": "Counter",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/counter.gif",
+        "HitFrames": "14-20 (or 1 frame later for real strong moves)",
+        "TotalFrames": "46 (59 when counter is not hit)",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Invincible": "1-16"
+        }
+      },
+      {
+        "Name": "Sword Dance (1, Side)",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/sworddance1.gif",
+        "HitFrames": "6-8",
+        "TotalFrames": "29",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Window for attack 2": "9-26"
+        }
+      },
+      {
+        "Name": "Sword Dance (2, Neutral/Side/Down",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/sworddance2.gif",
+        "HitFrames": "14-16",
+        "TotalFrames": "40",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Window for attack 3": "17-33"
+        }
+      },
+      {
+        "Name": "Sword Dance (2, Up)",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/sworddance2up.gif",
+        "HitFrames": "12-15",
+        "TotalFrames": "40",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Window for attack 3": "17-32"
+        }
+      },
+      {
+        "Name": "Sword Dance (3, Side/Neutral)",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/sworddance3.gif",
+        "HitFrames": "11-14",
+        "TotalFrames": "46",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Window for attack 4": "16-37"
+        }
+      },
+      {
+        "Name": "Sword Dance (3, Up)",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/sworddance3up.gif",
+        "HitFrames": "13-17",
+        "TotalFrames": "46",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Window for attack 4": "18-38"
+        }
+      },
+      {
+        "Name": "Sword Dance (3, Down)",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/sworddance3down.gif",
+        "HitFrames": "15-18",
+        "TotalFrames": "",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "Sword Dance (4, Side/Neutral)",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/sworddance4.gif",
+        "HitFrames": "23-26",
+        "TotalFrames": "50",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "Sword Dance (4, Up)",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/sworddance4up.gif",
+        "HitFrames": "20-25",
+        "TotalFrames": "50",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "Sword Dance (4, Down)",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/sworddance4down.gif",
+        "HitFrames": "13-15, 19-21, 25-27, 31-33, 37-38",
+        "TotalFrames": "60",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+        }
+      },
+      {
+        "Name": "Shield Breaker",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/shieldbreaker.gif",
+        "HitFrames": "5-10 (from release of B)",
+        "TotalFrames": "",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Time to get to charging": "11 frames",
+          "Max charge time": "121 frames"
+        }
+      },
+      {
+        "Name": "Dolphin Slash",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/dolphinslash.gif",
+        "HitFrames": "5-10",
+        "TotalFrames": "39",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Invulnerable": "5",
+          "Land fall special lag": "34"
+        }
+      },
+      {
+        "Name": "Air dodge",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/airdodge.gif",
+        "HitFrames": "",
+        "TotalFrames": "49",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Invulnerable": "4-29"
+        }
+      },
+      {
+        "Name": "Spot Dodge",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/spotdodge.gif",
+        "HitFrames": "",
+        "TotalFrames": "27",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Invulnerable": "2-18"
+        }
+      },
+      {
+        "Name": "Roll forward",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/rollfoward.gif",
+        "HitFrames": "",
+        "TotalFrames": "35",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Invulnerable": "4-19"
+        }
+      },
+      {
+        "Name": "Roll backwards",
+        "GifURL": "https://i.fightcore.gg/melee/moves/marth/rollbackwards.gif",
+        "HitFrames": "",
+        "TotalFrames": "35",
+        "IASA": "",
+        "AutoCancel": "",
+        "LandLag": "",
+        "LCanceled": "",
+        "Extra": {
+          "Invulnerable": "4-23"
         }
       }
     ]
